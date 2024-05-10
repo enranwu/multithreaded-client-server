@@ -1,20 +1,21 @@
-Copyright (C) 2014-2016 Udacity
-Copyright (C) 2016-2018 Georgia Institute of Technology
-All Rights Reserved
+MIT License
 
-The materials in this repository are provided to you under license.  If you do not agree
-with the terms and conditions of this license, please do not use these materials.
+Copyright (c) 2024 Enran Wu
 
-Specifically, you are permitted to use these materials as part of your participation in
-OMSCS CS-6200 Graduate Introduction to Operating Systems.  You are authorized to make
-derivative works of this SOLEY FOR THE PURPOSE OF COMPLETING THIS CLASS. 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-No right to distribute these materials or derivatives works of these materials are
-provided to you.  These materials remain the property of the Georgia Institute of
-Technology.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-You agree not to provide these materials (or derivatives of these materials) to anyone
-else without written permission from the Georgia Institute of Technology.  You agree
-not to store them in a location where they are shared with others, whether it is public
-(e.g., GitHub, BitBucket, or GitLab) or private (e.g., to you, your employer, your agency, 
-etc.)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
